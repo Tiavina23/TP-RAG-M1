@@ -1,6 +1,5 @@
 
-<<<<<<< HEAD
-=======
+
 ## Structure du projet
 
 ```
@@ -56,4 +55,3 @@ Utilisation
      les sources consultables dans un menu dépliable.
 -Poser une question** dans la barre de chat en bas.
 
->>>>>>> f117a08 (put code in repot git)
